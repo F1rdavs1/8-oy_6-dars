@@ -1,0 +1,14 @@
+{
+    "header": {
+        "home": "Home",
+        "shop": "Shop",
+        "contact": "Contact",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "New Arrival",
+        "text": "Discover Our New Collection",
+        "button_text": "Buy Now"
+    }
+
+}

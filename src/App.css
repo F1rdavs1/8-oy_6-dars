@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.home-hero-bg {
+    background-image: url('./assets/images/Home-img.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+}
+
+.hero-bg {
+    background-image: url('./assets/images/shop.png');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    height: 80vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

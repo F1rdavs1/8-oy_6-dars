@@ -1,0 +1,13 @@
+{     
+    "header" : {
+        "home": "Bosh sahifa",
+        "shop": "Do'kon",
+        "contact": "Aloqa",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "Yangi kelgan",
+        "text": "Bizning yangi kolleksiyamiz bilan tanishing",
+        "button_text": "Hozir xarid qilish"
+    }
+}
