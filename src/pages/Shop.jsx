@@ -1,5 +1,5 @@
-import "../App.css"
-import HeroLogo from "../assets/images/hero-logo.svg"
+import "../App.css";
+import HeroLogo from "../assets/images/hero-logo.svg";
 const Shop = () => {
   return (
     <div className="hero-bg flex flex-col">

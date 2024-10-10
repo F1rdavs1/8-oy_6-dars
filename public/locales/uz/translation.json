@@ -3,11 +3,42 @@
         "home": "Bosh sahifa",
         "shop": "Do'kon",
         "contact": "Aloqa",
-        "blog": "Blog"
+        "blog": "Blog",
+        "language": "Tilni tanlang"
     },
     "home": {
         "title": "Yangi kelgan",
         "text": "Bizning yangi kolleksiyamiz bilan tanishing",
-        "button_text": "Hozir xarid qilish"
+        "button-text": "Hozir xarid qilish"
+    },
+    "browse": {
+        "title": "Diapazonni ko'rib chiqing"
+    },
+    "our-products": {
+        "title":"Bizning mahsulotlarimiz",
+        "button-text": "Ko'proq ko'ring",
+        "show-less": "Kamroq ko'rsatish"
+    },
+    "footer": {
+        "footer-text":"400 University Drive Suite 200 Coral Gables, FL 33134 AQSH",
+        "links" : {
+            "links":"Havolalar",
+            "home": "Bosh sahifa",
+            "shop": "Do'kon",
+            "blog": "Blog",
+            "contact": "Biz bilan bog'laning"
+        },
+        "help": {
+            "help": "Yordam",
+            "payment": "To'lov turlari",
+            "returns": "Qaytadi",
+            "privacy": "Maxfiylik siyosati"
+        },
+        "newsletter": {
+            "newsletter": "Yangiliklar",
+            "email": "Elektron pochtangizni kiriting",
+            "subscribe": "OBUNA",
+            "reverved": "2023 yil furino. Barcha huquqlar himoyalangan"
+        }
     }
 }
